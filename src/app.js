@@ -7,7 +7,7 @@ import ThemeContext from './ThemeContext';
 
 
 const App = () => {
-  const [theme] = useState('rgb(246, 192, 100)');
+  const theme = useState('rgb(246, 192, 100)');
 
   return(
     <ThemeContext.Provider value={theme}>
