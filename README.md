@@ -21,8 +21,7 @@ A pet adoption site made with React
       * hooks, effects, and state use in React
 
   ## Installation:
-  [Deployed Url](https://eliselabonte.github.io/adopt-me/)
-
+  
   [Github Repository](https://github.com/eliselabonte/adopt-me)
 
   ## Usage:
